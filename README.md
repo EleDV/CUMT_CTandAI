@@ -1,1 +1,1 @@
-PyKE expert system shell (from: https://github.com/UrbsLab/PyKE_ExpertSystem_Example_BMIN520/tree/main), working in Python 3.14
+Lectures for "Computational Thinking and the Foundation of Artificial Intelligence", CUMT, 2026-2027.
